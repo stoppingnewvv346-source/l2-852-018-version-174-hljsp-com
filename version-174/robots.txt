@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Static site generated from uploaded materials.
